@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Luis Rojas
 
-<!--
-**ElMopendor/ElMopendor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Engineer (mobile focused)** working with **Flutter**, **NestJS**, and **Angular**.  
+I build scalable apps with clean architecture, CI/CD, and cloud integrations (Twilio, WhatsApp API, Firebase).
 
-Here are some ideas to get you started:
+- ⚙️ **Backend:** NestJS, GraphQL/REST, Redis/BullMQ, PostgreSQL, Docker
+- 📱 **Mobile:** Flutter (Bloc/Provider/Riverpod), Firebase, Codemagic
+- 🧱 **Architecture:** Clean Architecture, DDD, TDD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Featured projects
+- 🧩 [flutter-clean-architecture-example](#) — DDD + feature-first + Bloc
+- ⚙️ [nestjs-modular-api-boilerplate](#) — Modular API, Auth/JWT, Redis queues
+- 📊 [campaign-dashboard-demo](#) — Angular + NestJS, KPIs & queues simulation
+
+📫 [LinkedIn](https://linkedin.com/in/luis-angel-developer)
